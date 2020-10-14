@@ -8,8 +8,8 @@
 ## Lancement du programme via Docker
 ```bash
 $ sudo docker build -t test_technique .
-$ #sudo docker run text_technique from to format
-$ sudo docker run text_technique 01-01-2020 05-01-2020 json
+$ #sudo docker run test_technique from to format
+$ sudo docker run test_technique 01-01-2020 05-01-2020 json
 ```
 
 ## To-do list
